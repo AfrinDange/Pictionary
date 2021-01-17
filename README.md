@@ -3,13 +3,14 @@ Inspired by and designed using Google's [QuickDraw Dataset](https://github.com/g
 
   - A multiclass classifier model (classifying from 10 categories) is deployed in the drawing part of the game. 
   - The guessing part displays sketches stroke by stroke from a MongoDB database (containing 44 categories).
-
+  - [**Project Presentation**](https://drive.google.com/file/d/1bYU0eiaXuokTJSyx60uUg-ie_8RhmgE4/view?usp=sharing)
+  - [**Demo Video**](https://www.youtube.com/watch?v=EEm6xp4P-l8)
 # Setup:
 
 1 Verify you have Nodejs and Python installed.
 
 2 Install Desktop Development with C++.
-  * Install (Visual Studio)[https://visualstudio.microsoft.com/downloads/]
+  * Install [Visual Studio](https://visualstudio.microsoft.com/downloads/)
   * Open Visual Studio Installer and install Desktop Development with C++ workload.
   * If you have used Visual Studio Installer before, click on Modify and scroll down to find the same. 
   
